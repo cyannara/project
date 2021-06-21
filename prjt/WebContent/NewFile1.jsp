@@ -5,7 +5,7 @@
 <head>
 <script></script>
 <meta charset="UTF-8">
-<title>Insert title here   로컬에서 수정</title>
+<title>Insert title here 서버에서 수정</title>
 </head>
 <body>
 
